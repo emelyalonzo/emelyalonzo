@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PetLof](https://github.com/emelyalonzo/petlof-front)
 
-- 🌱 I’m currently learning **React, AWS and Kubernetes**
+- 🌱 I’m currently learning **react and docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emelyalonzo](https://github.com/emelyalonzo)
 
