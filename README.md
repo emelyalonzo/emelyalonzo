@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **emelyalonzom@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YDYPBBCrPm_x2LenW-64eSGvRvbrTtqqhWdcuIl7zUY/edit?usp=sharing](https://docs.google.com/document/d/1YDYPBBCrPm_x2LenW-64eSGvRvbrTtqqhWdcuIl7zUY/edit?usp=sharing)
+- 📄 Know about my experiences [on my CV](https://docs.google.com/document/d/1YDYPBBCrPm_x2LenW-64eSGvRvbrTtqqhWdcuIl7zUY/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
