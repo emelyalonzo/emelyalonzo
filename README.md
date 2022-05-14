@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/emelyalonzo](https://github.com/emelyalonzo)
 
-- 💬 Ask me about **html, css, js, ts, nodejs**
+- 💬 Ask me about **html, css, js, ts**
 
 - 📫 How to reach me **emelyalonzom@gmail.com**
 
