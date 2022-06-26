@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emely</h1>
 <h3 align="center">A passionate full stack developer from Venezuela, based on Spain</h3>
 
-- 🔭 I’m currently working on [PetLof](https://github.com/emelyalonzo/petlof-front)
+- 🔭 I’m currently working on [PetLof](https://github.com/emelyalonzo/petlof-front-prod)
 
 - 🌱 I’m currently learning **react and docker**
 
