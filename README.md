@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Emely</h1>
-<h3 align="center">A passionate full stack developer from Venezuela, based on Spain</h3>
+<h3 align="center">A passionate full stack developer based on Spain</h3>
 
-- 🔭 I’m currently working on [PetLof](https://github.com/emelyalonzo/petlof-front-prod)
+- 🔭 I’m currently working on [Portfolio](https://github.com/emelyalonzo/portfolio)
 
-- 🌱 I’m currently learning **react and docker**
+- 🌱 I’m currently learning **java and docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emelyalonzo](https://github.com/emelyalonzo)
 
-- 💬 Ask me about **html, css, js, ts**
+- 💬 Ask me about **html, css, js, ts, angular**
 
 - 📫 How to reach me **emelyalonzom@gmail.com**
 
