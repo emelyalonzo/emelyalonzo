@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Emely</h1>
-<h3 align="center">A passionate full stack developer based on Spain</h3>
+<h1 align="center">Hi, I'm Emely</h1>
+
+<img src="https://user-images.githubusercontent.com/68464035/202799551-c0f4bd3d-9b95-41fb-b407-8d19252a6d8f.png"/> 
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/emelyalonzo/portfolio)
 
-- 🌱 I’m currently learning **java and docker**
+- 🌱 I’m currently learning **Data Structures and algorithms with Java and Microservices with Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emelyalonzo](https://github.com/emelyalonzo)
 
-- 💬 Ask me about **html, css, js, ts, angular**
+- 💬 Ask me about **Frontend and Backend development**
 
-- 📫 How to reach me **emelyalonzom@gmail.com**
+- 📫 How to reach me **mailto:emelyalonzom@gmail.com**
 
-- 📄 Know about my experiences [on my CV](https://docs.google.com/document/d/1YDYPBBCrPm_x2LenW-64eSGvRvbrTtqqhWdcuIl7zUY/edit?usp=sharing)
+- 📄 Know about my experiences [on my CV]([https://docs.google.com/document/d/1YDYPBBCrPm_x2LenW-64eSGvRvbrTtqqhWdcuIl7zUY/edit?usp=sharing](https://drive.google.com/file/d/1M54K5dzjhTJxlbMQEN-ZUiCR31q8y7oo/view?usp=sharing) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
