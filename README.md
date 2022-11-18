@@ -2,15 +2,15 @@
 
 <img src="https://user-images.githubusercontent.com/68464035/202799551-c0f4bd3d-9b95-41fb-b407-8d19252a6d8f.png"/> 
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/emelyalonzo/portfolio)
+- 🔭 I’m currently working on [my portfolio](https://github.com/emelyalonzo/portfolio)
 
 - 🌱 I’m currently learning **Data Structures and algorithms with Java and Microservices with Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/emelyalonzo](https://github.com/emelyalonzo)
+- 👨‍💻 Some of my most relevant projects are available at [GitHub](https://github.com/emelyalonzo)
 
 - 💬 Ask me about **Frontend and Backend development**
 
-- 📫 How to reach me **mailto:emelyalonzom@gmail.com**
+- 📫 How to reach me **[by email](mailto:emelyalonzom@gmail.com)** or if you want **[on LinkedIn](https://linkedin.com/in/emelyalonzo)**
 
 - 📄 Know about my experiences [on my CV](https://drive.google.com/file/d/1M54K5dzjhTJxlbMQEN-ZUiCR31q8y7oo/view?usp=sharing) 
 
