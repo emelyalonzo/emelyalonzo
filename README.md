@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mailto:emelyalonzom@gmail.com**
 
-- 📄 Know about my experiences [on my CV]([https://docs.google.com/document/d/1YDYPBBCrPm_x2LenW-64eSGvRvbrTtqqhWdcuIl7zUY/edit?usp=sharing](https://drive.google.com/file/d/1M54K5dzjhTJxlbMQEN-ZUiCR31q8y7oo/view?usp=sharing) 
+- 📄 Know about my experiences [on my CV](https://drive.google.com/file/d/1M54K5dzjhTJxlbMQEN-ZUiCR31q8y7oo/view?usp=sharing) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
