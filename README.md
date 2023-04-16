@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Emely</h1>
-
-<img src="https://user-images.githubusercontent.com/68464035/202799551-c0f4bd3d-9b95-41fb-b407-8d19252a6d8f.png"/> 
-
+ 
 - 🔭 I’m currently working on [my portfolio](https://github.com/emelyalonzo/portfolio)
 
 - 🌱 I’m currently learning **Data Structures and algorithms with Java and Microservices with Docker**
