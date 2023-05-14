@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Emely</h1>
  
-- 🔭 I’m currently working on [my portfolio](https://github.com/emelyalonzo/portfolio)
-
-- 🌱 I’m currently learning **Data Structures and algorithms with Java and Microservices with Docker**
+- 🔭 I’m currently working on [my portfolio](https://github.com/emelyalonzo/portfolio) 
 
 - 👨‍💻 Some of my most relevant projects are available at [GitHub](https://github.com/emelyalonzo)
 
