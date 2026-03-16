@@ -1,10 +1,4 @@
 <h1 align="center">Hi, I'm Emely</h1>
- 
-- 🔭 I’m currently working on [inventory management.](https://github.com/emelyalonzo/inventory-managament-backend) 
-
-- 👨‍💻 Some of my most relevant projects are available at [my portfolio.](https://github.com/emelyalonzo/portfolio)
-
-- 💬 Ask me about **Frontend and Backend development**
 
 - 📫 How to reach me **[by email](mailto:emelyalonzom@gmail.com)** or if you want **[on LinkedIn](https://linkedin.com/in/emelyalonzo)**
 
